@@ -142,10 +142,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- **Your Name** - *Initial work*
+- **Varala Vishal** - *Initial work*
 
 ## Acknowledgments
 
 - Thanks to all contributors
 - Inspired by the need for efficient pan basket management
-- Built with ❤️ using React and Flask
